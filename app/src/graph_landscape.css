@@ -1,0 +1,19 @@
+.canvas{
+    padding: 10px;
+    width: 750px;
+    float: left;
+    background: #a3c1e3;
+    margin-right: 15px;
+}
+
+.canvas div{
+    height: 30px;
+    width: 30px;
+    float: left;
+}
+
+.title {
+    color: white;
+    margin: 0;
+    padding-left: 30px;
+}
